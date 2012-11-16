@@ -1,0 +1,1 @@
+{"0":"id","1":"data","_autoinc":true,"_pk":"id","_type":{"id":"int(8) unsigned","data":"varchar(255)"}}
