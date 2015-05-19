@@ -6,4 +6,7 @@ class IndexAction extends Action {
 		$this->data=$Data->where("`id` in (1,2,3)")->select();
 		$this->display();
     }
+    public function hello(){
+    	
+    }
 }
